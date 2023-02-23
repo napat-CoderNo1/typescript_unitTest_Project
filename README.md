@@ -9,9 +9,13 @@ npm i
 
 Warning !!! If you have run "npm i" but still get the error you can try running the following command.
 ```
-1. npm i
-2. npm i
-3. npm i
+npm i
+```
+```
+npm i
+```
+```
+npm i
 ```
 
 
