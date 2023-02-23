@@ -7,6 +7,14 @@ Next is a command for setup dependency
 npm i
 ```
 
+Warning !!! If you have run "npm i" but still get the error you can try running the following command.
+```
+1. npm i
+2. npm i
+3. npm i
+```
+
+
 # How to execute code
 ```
 npm start
