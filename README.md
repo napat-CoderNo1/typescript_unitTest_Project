@@ -9,15 +9,14 @@ npm i
 
 Warning !!! If you have run "npm i" but still get the error you can try running the following command.
 ```
-npm i
+1. npm install -g typescript
 ```
 ```
-npm i
+2. npm install -g ts-node
 ```
 ```
-npm i
+3. npm install jest --save-dev
 ```
-
 
 # How to execute code
 ```
